@@ -17,7 +17,7 @@ The dataset used here is the books.csv from kaggle.
 8) taking the 'title', 'author', and 'Similarity Score' of the top 5 books
 9) printing the recommended books
 
-for the GUI , I used the tkinter library ( cause I dont know html , CSS, and javascript and i dont want to unless in the future , my job role requires me to , 
+for the GUI , I used the tkinter library ( cause I dont know html , CSS, and javascript and i dont want to learn also  unless , in the future , my job role requires me to , 
 L me )
 
 
